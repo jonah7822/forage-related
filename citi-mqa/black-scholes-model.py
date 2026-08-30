@@ -5,7 +5,7 @@ S_0 = 1.20 # Spot price ($1.20) - can obtain this from sites like Bloomberg, Reu
 X = 1.25 # Strike price ($1.25) - using market conditions and option contracts info on exchanges like ICE
 r = 0.02 # Risk-free rate (2%) - Used the current yield on a six-month US Treasury bill as a proxy
 T = 0.5 # Time to maturity in years
-sigma = 0.25 # Volatility (25%) - calculate or find the historical volatility of commodity prices
+sigma = 0.25 # Volatility (25%) - calculate or find the historical volatility of coffee prices
 
 # Calculating d1 and d2
 
